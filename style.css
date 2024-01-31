@@ -77,11 +77,11 @@ header {
 
 .img1 {
     width: 220px;
+    height: 250px;
     margin-right: 30px;
 }
 
 .img-quatro {
-    object-position: 50% 50%;
     pointer-events: auto;
     width: 50%;
     height: 100%;
@@ -187,7 +187,6 @@ header {
     justify-content: center;
     gap: 40px;
     margin: 50px;
-    padding-top: 50px;
 }
 
 .container {
@@ -272,7 +271,6 @@ header {
     justify-content: space-between;
     gap: 40px;
     margin: 50px;
-    padding-top: 50px;
 }
 
 .listas{
